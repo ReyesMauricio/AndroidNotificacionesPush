@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "482022924097",
+    "project_id": "notificacionespushfireba-7882c",
+    "storage_bucket": "notificacionespushfireba-7882c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482022924097:android:bde61858a06e56e7a00bc0",
+        "android_client_info": {
+          "package_name": "com.reyes.notificacionespushfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482022924097-le3ole9b73q3fterlnpl30plaqmfo9im.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkLmpKPrrcoSj1Udpn_OUcHFfNyaANA00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482022924097-le3ole9b73q3fterlnpl30plaqmfo9im.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
